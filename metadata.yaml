@@ -1,0 +1,34 @@
+_repo: Sous-le-soleil-de-Satan_71272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernanos, Georges
+    birthdate: 1888
+    deathdate: 1948
+    gutenberg_agent_id: '56147'
+    url: http://www.gutenberg.org/2009/agents/56147
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Bernanos
+    - https://fr.wikipedia.org/wiki/Georges_Bernanos
+description: ''
+gutenberg_issued: '2023-07-25'
+identifiers:
+  gutenberg: '71272'
+language: fr
+pgterms:marc905: 20230101071605bernanos
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aFrance :$bLibrairie Plon, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Clergy -- Fiction'
+- !lcsh 'French fiction -- 20th century'
+- !lcsh 'Good and evil -- Religious aspects -- Catholic Church -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Sous le soleil de Satan
+url: http://www.gutenberg.org/ebooks/71272
