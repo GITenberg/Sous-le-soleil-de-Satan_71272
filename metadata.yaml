@@ -1,5 +1,8 @@
 _repo: Sous-le-soleil-de-Satan_71272
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71272-h/images/cover.jpg
 creator:
   author:
     agent_name: Bernanos, Georges
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Georges_Bernanos
     - https://fr.wikipedia.org/wiki/Georges_Bernanos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71272#Sous-le-soleil-de-Satan
 gutenberg_issued: '2023-07-25'
 identifiers:
   gutenberg: '71272'
